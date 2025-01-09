@@ -2,3 +2,4 @@ Just trying out some things, practicing.
 
 **TEST**
 
+Let's test .gitignore option
