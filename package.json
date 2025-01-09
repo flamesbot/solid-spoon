@@ -1,0 +1,17 @@
+{
+  "name": "solid-spoon",
+  "version": "1.0.0",
+  "description": "test package file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "flames_bot",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
